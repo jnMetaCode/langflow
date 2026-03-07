@@ -320,7 +320,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -489,7 +489,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -630,7 +630,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -799,7 +799,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -940,7 +940,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -1110,7 +1110,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -1281,7 +1281,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -1474,7 +1474,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -1596,7 +1596,7 @@
               "dependencies": [
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -1982,7 +1982,7 @@
               "dependencies": [
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -3222,7 +3222,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "typing_extensions",
@@ -5693,7 +5693,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -6043,7 +6043,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -12323,7 +12323,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -12767,7 +12767,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "typing_extensions",
@@ -60870,7 +60870,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -62728,7 +62728,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -64810,7 +64810,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "typing_extensions",
@@ -65888,7 +65888,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -69185,7 +69185,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "googleapiclient",
@@ -69880,7 +69880,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -73181,7 +73181,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -74223,7 +74223,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -75052,7 +75052,7 @@
               "dependencies": [
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -75408,7 +75408,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -75591,7 +75591,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -75757,7 +75757,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "tenacity",
@@ -76416,7 +76416,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -76950,7 +76950,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -86812,7 +86812,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -88521,7 +88521,7 @@
               "dependencies": [
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "trustcall",
@@ -90412,7 +90412,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -90642,7 +90642,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -91064,7 +91064,7 @@
               "dependencies": [
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -93769,7 +93769,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -94046,7 +94046,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "typing_extensions",
@@ -97830,7 +97830,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -98265,7 +98265,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -98590,7 +98590,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -105600,7 +105600,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -106561,7 +106561,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -107632,7 +107632,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -107952,7 +107952,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -108175,7 +108175,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "typing_extensions",
@@ -108473,7 +108473,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -108643,7 +108643,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -108826,7 +108826,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -109069,7 +109069,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -109295,7 +109295,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -109693,7 +109693,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -110038,7 +110038,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -114744,7 +114744,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -115396,7 +115396,7 @@
               "dependencies": [
                 {
                   "name": "weaviate",
-                  "version": "4.20.1"
+                  "version": "4.18.3"
                 },
                 {
                   "name": "langchain_community",
@@ -116164,7 +116164,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "typing_extensions",
@@ -116544,7 +116544,7 @@
                 },
                 {
                   "name": "pydantic",
-                  "version": "2.12.5"
+                  "version": "2.11.10"
                 },
                 {
                   "name": "lfx",
@@ -118266,6 +118266,6 @@
     "num_components": 359,
     "num_modules": 97
   },
-  "sha256": "574431890665b24ef69d5aad362ebac45984b8a1b67e06f733e642dd75a37af7",
+  "sha256": "44157efe14cfec63be9bc2ba0be580eccf8e71cd1724437dad3edadf47ca707a",
   "version": "0.3.0"
 }
